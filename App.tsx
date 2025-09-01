@@ -1,5 +1,6 @@
+
 import React from 'react';
-import { IdeaForm } from './components/IdeaForm';
+import { IdeaForm } from './components/IdeaForm.tsx';
 
 const App: React.FC = () => {
   return (
